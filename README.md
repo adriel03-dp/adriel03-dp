@@ -4,15 +4,58 @@
 Welcome to my GitHub profile — I'm glad you're here!
 
 <p align="center">
+  <!-- Social / contact badges -->
+  <a href="https://github.com/adriel03-dp">
+    <img src="https://img.shields.io/github/followers/adriel03-dp?label=Follow&style=social" alt="Follow on GitHub" />
+  </a>
+  <a href="mailto:adrielp2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adrielp2000@gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/adriel-perera">
+    <img src="https://img.shields.io/badge/LinkedIn-Adriel%20Perera-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Profile trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=adriel03-dp&theme=onedark" alt="Trophies" />
 </p>
 
 <p align="center">
+  <!-- GitHub stats + top languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=adriel03-dp&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel03-dp&hide=Jupyter%20Notebook&layout=compact&langs_count=10&theme=onedark" alt="Top Languages" />
 </p>
 
 <p align="center">
+  <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adriel03-dp&theme=dark" alt="GitHub Streak Stats" />
 </p>
+
+---
+
+### 🚀 About Me
+- 3rd Year Software Engineering Undergraduate
+- Building projects with JavaScript, Node.js and modern web tooling
+- Interested in full-stack development, DevOps and open-source
+
+### 🛠️ Tech & Tools
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### 📫 Connect
+- Email: adrielp2000@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adriel-perera
+- GitHub: https://github.com/adriel03-dp
+
+---
+
+Thanks for visiting — check out my pinned repos and recent contributions below!
 ```
