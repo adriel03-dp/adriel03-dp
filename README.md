@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm adriel03-dp 👋
 
 Welcome to my GitHub profile — I'm glad you're here!
@@ -58,4 +57,3 @@ Welcome to my GitHub profile — I'm glad you're here!
 ---
 
 Thanks for visiting — check out my pinned repos and recent contributions below!
-```
