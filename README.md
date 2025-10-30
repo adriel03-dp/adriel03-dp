@@ -95,7 +95,7 @@ Thanks for visiting and check out my pinned repos and recent contributions below
       </p>
 
   <p style="margin: 8px 0;">
-        <a href="mailto:adrielp2000@gmail.com" style="text-decoration: none;">
+        <a href="mailto:adrieldp2000@gmail.com" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Email-adrielp2000@gmail.com-7b92b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
         <a href="https://www.linkedin.com/in/adriel-perera" style="text-decoration: none;">
