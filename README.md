@@ -27,8 +27,19 @@ Welcome to my GitHub profile, I'm glad you're here!
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adriel03-dp&theme=dark" alt="GitHub Streak Stats" />
+  <!-- Streak stats: use a more reliable mirror as the primary live badge, and show a repo-hosted cached fallback below.
+       After you add the included workflow, the cached image will be available at:
+       https://raw.githubusercontent.com/adriel03-dp/adriel03-dp/main/assets/streak.png -->
+  <!-- Live external badge (mirror) -->
+  <img src="https://streak-stats.demolab.com?user=adriel03-dp&theme=dark" alt="GitHub Streak Stats (live)" />
+
+  <br/>
+
+  <!-- Cached fallback served from this repository (updated by a GitHub Action). Keep both so one displays if the other is down. -->
+  <img src="https://raw.githubusercontent.com/adriel03-dp/adriel03-dp/main/assets/streak.png" alt="GitHub Streak Stats (cached fallback)" />
+
+  <br/>
+  <em>If the live badge is unavailable the cached image (updated daily by the workflow) will show as a fallback once you add the workflow to this repo.</em>
 </p>
 
 ---
