@@ -1,4 +1,4 @@
-# Hi, I'm Adriel Perera 🦦
+# Hi! I'm Adriel Perera 🦦
 
 <p align="center">
   <!-- Dynamic role/skills typing banner -->
