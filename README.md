@@ -35,8 +35,7 @@ Welcome to my GitHub profile, I'm glad you're here!
 
   <br/>
 
-  <br/>
-  <em>If the live badge is unavailable the cached image (updated daily by the workflow) will show as a fallback once you add the workflow to this repo.</em>
+  
 </p>
 
 ---
