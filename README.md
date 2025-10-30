@@ -1,5 +1,10 @@
 # Hi, I'm Adriel Perera 🦦
 
+<p align="center">
+  <!-- Dynamic role/skills typing banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&pause=1000&color=10B981&width=700&height=45&lines=Full+Stack+Developer;Team+Lead;Agile+Practices;UI%2FUX" alt="Typing roles" />
+</p>
+
 Welcome to my GitHub profile, I'm glad you're here!
 
 <p align="center">
@@ -13,6 +18,9 @@ Welcome to my GitHub profile, I'm glad you're here!
   <a href="https://www.linkedin.com/in/adriel-perera">
     <img src="https://img.shields.io/badge/LinkedIn-Adriel%20Perera-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
+
+  <!-- Profile views badge -->
+  <img src="https://komarev.com/ghpvc/?username=adriel03-dp&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -42,8 +50,8 @@ Welcome to my GitHub profile, I'm glad you're here!
 
 ### 🚀 About Me
 - 3rd Year Software Engineering Undergraduate
-- Building projects with JavaScript, Node.js and modern web tooling
-- Interested in full-stack development, DevOps and open-source
+- Building projects with JavaScript, Node.js and Modern Web Tooling
+- Interested in Full Stack Development, DevOps and open source
 
 ### 🛠️ Tech & Tools
 <p>
@@ -64,13 +72,39 @@ Welcome to my GitHub profile, I'm glad you're here!
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
 
-### 📫 Connect
-- Email: adrielp2000@gmail.com
-- LinkedIn: https://www.linkedin.com/in/adriel-perera
-- GitHub: https://github.com/adriel03-dp
+  <!-- Editor / IDE / Desktop badges added per request -->
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
+</p>
 
 ---
 
 Thanks for visiting and check out my pinned repos and recent contributions below!
+
+<!-- Footer / Connect section with visual background -->
+<div align="center" style="margin-top: 32px;">
+  <div style="width: 100%; max-width: 900px; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 30px rgba(2,6,23,0.6);">
+    <!-- Gradient background -->
+    <div style="background: linear-gradient(135deg,#0f172a 0%,#1e3a8a 50%,#0ea5a1 100%); padding: 28px;">
+      <h3 style="color: #fff; margin: 0 0 12px 0;">📫 Connect with me</h3>
+      <p style="color: rgba(255,255,255,0.9); margin: 0 0 18px 0;">
+        I'm always open to chat about projects, internships or collaboration. Feel free to reach out!
+      </p>
+
+  <p style="margin: 8px 0;">
+        <a href="mailto:adrielp2000@gmail.com" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Email-adrielp2000@gmail.com-7b92b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        <a href="https://www.linkedin.com/in/adriel-perera" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/LinkedIn-Adriel%20Perera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://github.com/adriel03-dp" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/GitHub-adriel03--dp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
