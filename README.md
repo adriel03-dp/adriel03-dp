@@ -35,9 +35,6 @@ Welcome to my GitHub profile, I'm glad you're here!
 
   <br/>
 
-  <!-- Cached fallback served from this repository (updated by a GitHub Action). Keep both so one displays if the other is down. -->
-  <img src="https://raw.githubusercontent.com/adriel03-dp/adriel03-dp/main/assets/streak.png" alt="GitHub Streak Stats (cached fallback)" />
-
   <br/>
   <em>If the live badge is unavailable the cached image (updated daily by the workflow) will show as a fallback once you add the workflow to this repo.</em>
 </p>
