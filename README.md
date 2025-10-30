@@ -1,4 +1,4 @@
-# Hi, I'm adriel03-dp 👋
+# Hi, I'm Adriel Perera 🦦
 
 Welcome to my GitHub profile, I'm glad you're here!
 
