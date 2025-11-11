@@ -49,9 +49,10 @@ Welcome to my GitHub profile, I'm glad you're here!
 ---
 
 ### 🚀 About Me
-- 3rd Year Software Engineering Undergraduate
-- Building projects with JavaScript, Node.js and Modern Web Tooling
-- Interested in Full Stack Development, DevOps and open source
+-3rd Year Software Engineering Undergraduate passionate about building scalable, user-focused applications and exploring innovative tech solutions.
+-Hands-on experience with JavaScript, Node.js, React.js, TypeScript, and modern web development tooling.
+-Keen interest in Full-Stack Development, DevOps, AI-powered solutions, and contributing to open-source projects.
+-Enjoy designing modular architectures, implementing RESTful APIs, and leveraging Agile methodologies to deliver robust software.
 
 ### 🛠️ Tech & Tools
 <p>
