@@ -47,13 +47,13 @@ Welcome to my GitHub profile, I'm glad you're here!
 </p>
 
 ---
-
+<p> 
 ### 🚀 About Me
--3rd Year Software Engineering Undergraduate passionate about building scalable, user-focused applications and exploring innovative tech solutions.
--Hands-on experience with JavaScript, Node.js, React.js, TypeScript, and modern web development tooling.
--Keen interest in Full-Stack Development, DevOps, AI-powered solutions, and contributing to open-source projects.
+-3rd Year Software Engineering Undergraduate passionate about building scalable, user-focused applications and exploring innovative tech solutions.</br>
+-Hands-on experience with JavaScript, Node.js, React.js, TypeScript, and modern web development tooling.</br>
+-Keen interest in Full-Stack Development, DevOps, AI-powered solutions, and contributing to open-source projects.</br>
 -Enjoy designing modular architectures, implementing RESTful APIs, and leveraging Agile methodologies to deliver robust software.
-
+</p>
 ### 🛠️ Tech & Tools
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
