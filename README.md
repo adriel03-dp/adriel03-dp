@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Dynamic role/skills typing banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&pause=1000&color=10B981&width=700&height=45&lines=Full+Stack+Developer;Team+Lead;Agile+Practices;UI%2FUX" alt="Typing roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&pause=1000&color=10B981&width=700&height=45&lines=Full+Stack+Developer;Team+Lead;Agile+Practices;UI%2FUX" alt="Typing role" />
 </p>
 
 Welcome to my GitHub profile, I'm glad you're here!
@@ -29,21 +29,20 @@ Welcome to my GitHub profile, I'm glad you're here!
 </p>
 
 <p align="center">
-  <!-- GitHub stats + top languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adriel03-dp&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel03-dp&hide=Jupyter%20Notebook&layout=compact&langs_count=10&theme=onedark" alt="Top Languages" />
+  <!-- GitHub stats + top languages (cache-busted to force refresh) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adriel03-dp&show_icons=true&count_private=true&theme=onedark&cache_seconds=1800&v=2025-12-14" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel03-dp&hide=Jupyter%20Notebook&layout=compact&langs_count=10&theme=onedark&cache_seconds=1800&v=2025-12-14" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Streak stats: use a more reliable mirror as the primary live badge, and show a repo-hosted cached fallback below.
-       After you add the included workflow, the cached image will be available at:
-       https://raw.githubusercontent.com/adriel03-dp/adriel03-dp/main/assets/streak.png -->
-  <!-- Live external badge (mirror) -->
-  <img src="https://streak-stats.demolab.com?user=adriel03-dp&theme=dark" alt="GitHub Streak Stats (live)" />
+  <!-- Streak stats: live mirror with cache-bust param -->
+  <img src="https://streak-stats.demolab.com?user=adriel03-dp&theme=dark&v=2025-12-14" alt="GitHub Streak Stats (live)" />
 
   <br/>
 
-  
+  <!-- Contribution calendar / activity graph -->
+  <img src="https://ghchart.rshah.org/adriel03-dp" alt="Contribution chart" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adriel03-dp&theme=react-dark&area=true&v=2025-12-14" alt="Activity Graph" />
 </p>
 
 ---
