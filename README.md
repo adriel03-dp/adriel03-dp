@@ -25,7 +25,7 @@ Welcome to my GitHub profile, I'm glad you're here!
 
 <p align="center">
   <!-- Profile trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=adriel03-dp&theme=onedark" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adriel03-dp&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -35,16 +35,8 @@ Welcome to my GitHub profile, I'm glad you're here!
 </p>
 
 <p align="center">
-  <!-- Streak stats: use a more reliable mirror as the primary live badge, and show a repo-hosted cached fallback below.
-       After you add the included workflow, the cached image will be available at:
-       https://raw.githubusercontent.com/adriel03-dp/adriel03-dp/main/assets/streak.png -->
-  <!-- Live external badge (mirror) -->
-  <img src="https://streak-stats.demolab.com?user=adriel03-dp&theme=dark" alt="GitHub Streak Stats (live)" />
-
-  <br/>
-
-  
-
+  <!-- GitHub Streak Stats (live) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriel03-dp&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 ---
