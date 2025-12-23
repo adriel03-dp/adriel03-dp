@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Dynamic role/skills typing banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&pause=1000&color=10B981&width=700&height=45&lines=Full+Stack+Developer;Team+Lead;Agile+Practices;UI%2FUX" alt="Typing role" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&pause=1000&color=10B981&width=700&height=45&lines=Full+Stack+Developer;Team+Lead;Agile+Practices;UI%2FUX" alt="Typing ro[...]
 </p>
 
 Welcome to my GitHub profile, I'm glad you're here!
@@ -26,7 +26,7 @@ Welcome to my GitHub profile, I'm glad you're here!
 <p align="center">
   <!-- Profile trophy -->
   <img 
-    src="https://github-profile-trophy-git-main.rxyhn.vercel.app/?username=adriel03-dp&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1" 
+    src="https://github-profile-trophy.vercel.app/?username=adriel03-dp&theme=kimbie_dark" 
     alt="GitHub Trophies" 
   />
 </p>
