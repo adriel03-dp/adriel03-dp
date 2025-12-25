@@ -26,7 +26,7 @@ Welcome to my GitHub profile, I'm glad you're here!
 <p align="center">
   <!-- Profile trophy -->
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=adriel03-dp" 
+    src="https://github-profile-trophy.vercel.app/?username=adriel03-dp&theme=kimbie_dark" 
     alt="GitHub Trophies" 
   />
 </p>
