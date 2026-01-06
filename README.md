@@ -45,12 +45,18 @@ Welcome to my GitHub profile, I'm glad you're here!
 ---
  
 ### 🚀 About Me
-<p>
--3rd Year Software Engineering Undergraduate passionate about building scalable, user-focused applications and exploring innovative tech solutions.</br>
--Hands-on experience with JavaScript, Node.js, React.js, TypeScript, and modern web development tooling.</br>
--Keen interest in Full-Stack Development, DevOps, AI-powered solutions, and contributing to open-source projects.</br>
--Enjoy designing modular architectures, implementing RESTful APIs, and leveraging Agile methodologies to deliver robust software.
-</p>
+
+3rd Year Software Engineering Undergraduate focused on building scalable, user-focused applications and enterprise-ready backend systems.
+
+Hands-on experience with JavaScript, TypeScript, Python, C#, .NET (ASP.NET Core), Node.js, React, and RESTful API development.
+
+Currently working on AI-powered systems using Gemini API integration and backend services built with ASP.NET Core, focusing on structured decision logic and API-driven automation.
+
+Strong interest in Full-Stack Development, backend engineering, DevOps fundamentals, and AI-assisted solutions for real-world problem solving.
+
+Enjoy designing modular, maintainable architectures, integrating third-party APIs, and working in Agile/Scrum environments to deliver robust software.
+
+Exploring Angular fundamentals to complement backend-focused full-stack development
 
 ### 🛠️ Tech & Tools
 <p>
