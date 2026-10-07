@@ -44,20 +44,55 @@ Welcome to my GitHub profile, I'm glad you're here!
 
 ---
  
-### 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-3rd Year Software Engineering Undergraduate focused on building scalable, user-focused applications and enterprise-ready backend systems.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F75C7E&center=true&vCenter=true&width=850&lines=AI+Systems+%7C+Multi-Agent+Workflows+%7C+Backend+Engineering;Building+software+that+reasons%2C+coordinates%2C+and+scales"
+    alt="Typing animation introducing my engineering focus"
+  />
+</p>
 
-Hands-on experience with JavaScript, TypeScript, Python, C#, .NET (ASP.NET Core), Node.js, React, and RESTful API development.
+<p align="center">
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-6C63FF?style=flat-square" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-FF6F61?style=flat-square" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Backend%20Engineering-0A66C2?style=flat-square" alt="Backend Engineering" />
+  <img src="https://img.shields.io/badge/Cloud--Native-2496ED?style=flat-square" alt="Cloud-Native" />
+</p>
 
-Currently working on AI-powered systems using Gemini API integration and backend services built with ASP.NET Core, focusing on structured decision logic and API-driven automation.
+<br />
 
-Strong interest in Full-Stack Development, backend engineering, DevOps fundamentals, and AI-assisted solutions for real-world problem solving.
+I build intelligent software that connects **AI reasoning with dependable engineering**.
 
-Enjoy designing modular, maintainable architectures, integrating third-party APIs, and working in Agile/Scrum environments to deliver robust software.
+My strength is turning ambitious ideas into structured, maintainable systems—from coordinating specialized AI agents to building secure APIs, observable workflows, model-evaluation pipelines, and cloud-native services.
 
-Exploring Angular fundamentals to complement backend-focused full-stack development
+I’m currently exploring the intersection of **multi-agent systems, LLM orchestration, backend architecture, and applied AI research**. My work includes an observable AI software-development organization, a 14-agent marketing orchestration platform, local language-model inference, Sinhala speech processing, AI-powered IoT applications, and Kubernetes resilience research.
 
+I work across **LangGraph, LangChain, Gemini, Groq, Ollama, Whisper, FastAPI, ASP.NET Core, NestJS, React, PostgreSQL, MongoDB, Docker, and Kubernetes**—choosing technologies based on the problem rather than forcing every project into the same stack.
+
+> **My goal is to build intelligent systems that are not only impressive in a demo, but also explainable, testable, secure, and engineered to last.**
+
+<br />
+
+<details>
+  <summary><b>🧠 What I’m currently building and researching</b></summary>
+  <br />
+
+  - Observable multi-agent software-development workflows
+  - Structured LLM orchestration with specialized agent roles
+  - Multimodal marketing intelligence and content generation
+  - Local inference using Qwen, Ollama, and fine-tuned Whisper models
+  - Sinhala speech recognition and language correction
+  - Dependency-aware resilience analysis for Kubernetes microservices
+  - AI-assisted decision analysis with reproducible model evaluation
+
+</details>
+
+<br />
+
+<p align="center">
+  <i>Always learning. Always experimenting. Always building.</i>
+</p>
 ### 🛠️ Tech & Tools
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
