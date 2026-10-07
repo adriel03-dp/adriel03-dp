@@ -23,12 +23,15 @@
 ### <code>adriel@system:~/profile$ cat about.yml</code>
 
 ```yaml
-role: Software Engineering Undergraduate
-focus:
-  - Backend Systems
-  - Full-Stack
-  - Applied AI
-mode: Building / Learning / Shipping
+profile:
+  - Backend Developer
+  - AI Engineer
+  - Team Lead
+
+methodologies:
+  - Agile & Scrum
+  - System Architecture
+  - API Design
 
 mission: >
   I build the parts of software that need to keep 
@@ -38,17 +41,12 @@ details: >
   I like following a feature all the way through—from the interface 
   and API contract to the data model, deployment, monitoring, 
   and failure handling.
-
-interests: >
-  Systems talking to other systems: APIs, agent workflows, 
-  distributed services, model integrations, observability.
 ```
 
 ### <code>adriel@system:~/profile$ ls -la ./tech-stack/</code>
 
-<br>
-
 <p align="center">
+  <br><b><code>./languages</code></b><br><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -59,7 +57,10 @@ interests: >
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br><br>
+</p>
+
+<p align="center">
+  <br><b><code>./frameworks_and_libraries</code></b><br><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -67,21 +68,19 @@ interests: >
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <br><br>
+</p>
+
+<p align="center">
+  <br><b><code>./databases_and_infrastructure</code></b><br><br>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
-  <br><br>
+</p>
+
+<p align="center">
+  <br><b><code>./ai_and_observability</code></b><br><br>
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=39FF14&color=000000&labelColor=000000" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=39FF14&color=000000&labelColor=000000" alt="LangChain" />
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=39FF14&color=000000&labelColor=000000" alt="Google Gemini" />
@@ -89,6 +88,17 @@ interests: >
   <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=39FF14&color=000000&labelColor=000000" alt="Whisper" />
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=39FF14&color=000000&labelColor=000000" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/Jaeger-000000?style=for-the-badge&logo=jaeger&logoColor=39FF14&color=000000&labelColor=000000" alt="Jaeger" />
+</p>
+
+<p align="center">
+  <br><b><code>./tools</code></b><br><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
 </p>
 
 ### <code>adriel@system:~/profile$ ./fetch_metrics.sh --all</code>
