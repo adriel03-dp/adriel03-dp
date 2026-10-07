@@ -4,133 +4,94 @@
 
 <p align="center">
   <a href="mailto:adrielp2000@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-030603?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email Adriel" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/adriel-perera">
-    <img src="https://img.shields.io/badge/LINKEDIN-030603?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="Adriel on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/adriel03-dp?tab=followers">
-    <img src="https://img.shields.io/github/followers/adriel03-dp?label=FOLLOW&style=for-the-badge&color=39FF14&labelColor=030603&logo=github&logoColor=39FF14" alt="Follow Adriel on GitHub" />
+  <a href="https://github.com/adriel03-dp">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=adriel03-dp&label=PROFILE+VIEWS&color=16A34A&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=adriel03-dp&label=Views&color=0D1117&style=for-the-badge" alt="Profile views" />
 </p>
 
-## `adriel@github:~$ cat ./about.md`
+<br>
 
-```text
-ROLE      Software Engineering Undergraduate
-FOCUS     Backend Systems · Full-Stack · Applied AI
-MODE      Building / Learning / Shipping
-STATUS    Open to opportunities
-```
+### 👨‍💻 About Me
 
-> I build the parts of software that need to keep working after the demo ends.
+> **I build the parts of software that need to keep working after the demo ends.**
 
-I'm a Software Engineering undergraduate working across backend and full-stack development, with a growing focus on applied AI. I like following a feature all the way through—from the interface and API contract to the data model, deployment, monitoring, and failure handling.
+I'm a Software Engineering undergraduate working across **backend and full-stack development**, with a growing focus on **applied AI**. I like following a feature all the way through—from the interface and API contract to the data model, deployment, monitoring, and failure handling.
 
 The problems that hold my attention usually involve **systems talking to other systems**: APIs, agent workflows, distributed services, model integrations, observability, and automation. I care about making them understandable and testable, not just getting them to run once.
 
-| `BUILD` | `EXPLORE` | `VALUE` |
-|---|---|---|
-| Backend and full-stack systems | Agents, models, and cloud-native engineering | Clear thinking, useful software, honest evidence |
+<br>
 
-## `adriel@github:~$ ls ./toolbox`
+### 🛠️ Technology Stack
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,dotnet,nodejs,nestjs,fastapi,react,nextjs,mongodb,postgres,firebase,docker,kubernetes,git,github,postman&perline=9"
-    alt="Adriel's core technology stack"
-  />
+  <strong>Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,cs,cpp,c" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-030603?style=flat-square&logoColor=39FF14" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangChain-030603?style=flat-square&logo=langchain&logoColor=39FF14" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Gemini-030603?style=flat-square&logo=googlegemini&logoColor=39FF14" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Ollama-030603?style=flat-square&logo=ollama&logoColor=39FF14" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Whisper-030603?style=flat-square&logo=openai&logoColor=39FF14" alt="Whisper" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-030603?style=flat-square&logo=opentelemetry&logoColor=39FF14" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/Jaeger-030603?style=flat-square&logoColor=39FF14" alt="Jaeger" />
+  <strong>Frameworks & Libraries</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,fastapi,dotnet,express" alt="Frameworks" />
 </p>
 
-<details>
-  <summary><b><code>cat stack.lock</code></b></summary>
-  <br />
+<p align="center">
+  <strong>Database, Cloud & Tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,kubernetes,git,github,postman" alt="Tools" />
+</p>
 
-  **Languages:** JavaScript, TypeScript, Python, C#, Java, Kotlin, C, C++  
-  **Application development:** Node.js, Express, React, React Native, .NET, ASP.NET Core, FastAPI, NestJS  
-  **Data:** PostgreSQL, MongoDB, Firebase, Pandas  
-  **Infrastructure and tooling:** Docker, Kubernetes, GitHub, Postman, Android Studio, VS Code, PyCharm
-</details>
+<br>
 
-## `adriel@github:~$ git log --stat`
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Whisper-0D1117?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-0D1117?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Jaeger-0D1117?style=flat-square&logo=jaeger&logoColor=white" alt="Jaeger" />
+</p>
+
+<br>
+
+### 📊 GitHub Activity
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api?username=adriel03-dp&show_icons=true&include_all_commits=true&count_private=true&bg_color=030603&title_color=39FF14&text_color=E8FFE8&icon_color=39FF14&border_color=164D1C"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api?username=adriel03-dp&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=15803D&text_color=18181B&icon_color=16A34A&border_color=D4D4D8"
-    />
-    <img
-      height="180"
-      src="https://github-stats-extended.vercel.app/api?username=adriel03-dp&show_icons=true&include_all_commits=true&count_private=true&bg_color=030603&title_color=39FF14&text_color=E8FFE8&icon_color=39FF14&border_color=164D1C"
-      alt="Adriel's GitHub statistics"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adriel03-dp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adriel03-dp&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=adriel03-dp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
   </picture>
-
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=adriel03-dp&hide=Jupyter%20Notebook&layout=compact&langs_count=10&bg_color=030603&title_color=39FF14&text_color=E8FFE8&border_color=164D1C"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=adriel03-dp&hide=Jupyter%20Notebook&layout=compact&langs_count=10&bg_color=FFFFFF&title_color=15803D&text_color=18181B&border_color=D4D4D8"
-    />
-    <img
-      height="180"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=adriel03-dp&hide=Jupyter%20Notebook&layout=compact&langs_count=10&bg_color=030603&title_color=39FF14&text_color=E8FFE8&border_color=164D1C"
-      alt="Adriel's most-used languages"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel03-dp&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel03-dp&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel03-dp&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
   </picture>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=adriel03-dp&background=030603&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=7CFF8D&dates=78A878&currStreakNum=E8FFE8&sideNums=E8FFE8&border=164D1C&border_radius=4"
-    alt="Adriel's GitHub contribution streak"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=adriel03-dp&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=adriel03-dp&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakNum=24292F&sideNums=24292F&currStreakLabel=57606A&sideLabels=57606A&dates=57606A" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=adriel03-dp&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+  </picture>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=adriel03-dp&theme=kimbie_dark"
-    alt="Adriel's GitHub trophies"
-  />
+<br>
+
+### 🤝 Let's Connect
+
+I'm open to **internships, engineering roles, and thoughtful collaborations**. If you're working on backend systems, intelligent tooling, or software with a real operational challenge, I'd be glad to talk!
+
+<p>
+  <a href="mailto:adrielp2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Adriel" />
+  </a>
+  <a href="https://www.linkedin.com/in/adriel-perera">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adriel on LinkedIn" />
+  </a>
 </p>
-
-## `adriel@github:~$ ssh connect@adriel`
-
-<table>
-  <tr>
-    <td width="62%">
-      <b>I'm open to internships, engineering roles, and thoughtful collaborations.</b><br /><br />
-      If you're working on backend systems, intelligent tooling, or software with a real operational challenge, I'd be glad to talk.
-    </td>
-    <td width="38%" align="center">
-      <a href="mailto:adrielp2000@gmail.com">
-        <img src="https://img.shields.io/badge/START_A_CONVERSATION-030603?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Start a conversation with Adriel" />
-      </a>
-      <br /><br />
-      <a href="https://www.linkedin.com/in/adriel-perera">
-        <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=030603" alt="Connect with Adriel on LinkedIn" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="right"><code>adriel@github:~$ exit 0&nbsp; █</code></p>
