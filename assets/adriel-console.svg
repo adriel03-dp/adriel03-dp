@@ -1,80 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Adriel Perera developer profile banner</title>
-  <desc id="desc">A black phosphor-green developer terminal presenting Adriel Perera as a software engineer focused on backend systems and applied AI.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Adriel Perera Linux terminal profile</title>
+  <desc id="desc">A restrained dark Linux terminal introducing Adriel Perera, a software engineering undergraduate focused on backend systems and applied AI.</desc>
 
   <defs>
-    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#020402"/>
-      <stop offset="0.56" stop-color="#050a06"/>
-      <stop offset="1" stop-color="#071109"/>
+    <linearGradient id="terminal-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0a0f0d"/>
     </linearGradient>
-    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#39ff14"/>
-      <stop offset="0.54" stop-color="#39ff14"/>
-      <stop offset="0.54" stop-color="#8bff75"/>
-      <stop offset="1" stop-color="#8bff75"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity="0.055" stroke-width="1"/>
-    </pattern>
-    <filter id="phosphorGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
     <style>
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
-      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-      .cursor { animation: blink 1.1s steps(1) infinite; }
-      @keyframes blink { 0%, 45% { opacity: 1; } 46%, 100% { opacity: 0; } }
-      @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+      .prompt { fill: #39d353; font-weight: 700; }
+      .command { fill: #f0f6fc; }
+      .output { fill: #c9d1d9; }
+      .muted { fill: #8b949e; }
+      .accent { fill: #39d353; }
     </style>
   </defs>
 
-  <rect width="1200" height="360" rx="18" fill="url(#surface)"/>
-  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#164d1c" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="398" rx="12" fill="url(#terminal-bg)" stroke="#30363d" stroke-width="2"/>
+  <path d="M1 54H1199" stroke="#30363d" stroke-width="2"/>
+  <rect x="22" y="16" width="24" height="22" rx="3" fill="#161b22" stroke="#39d353"/>
+  <text x="34" y="32" text-anchor="middle" class="mono accent" font-size="13" font-weight="700">&gt;_</text>
+  <text x="61" y="33" class="mono output" font-size="15">adriel@github:~ / bash</text>
+  <text x="1168" y="33" text-anchor="end" class="mono muted" font-size="13">GNU/Linux</text>
 
-  <path d="M18 58H1182" stroke="#164d1c"/>
-  <circle cx="32" cy="29" r="7" fill="#164d1c"/>
-  <circle cx="56" cy="29" r="7" fill="#16a34a"/>
-  <circle cx="80" cy="29" r="7" fill="#39ff14"/>
-  <text x="104" y="35" class="mono" font-size="15" fill="#94a3b8">bash — adriel@github: ~</text>
-  <text x="1138" y="35" text-anchor="end" class="mono" font-size="13" fill="#64748b">AP//03</text>
+  <path d="M705 82V350" stroke="#21262d"/>
 
-  <text x="54" y="94" class="mono" font-size="16" fill="#39ff14">adriel@github</text>
-  <text x="177" y="94" class="mono" font-size="16" fill="#64748b">:</text>
-  <text x="187" y="94" class="mono" font-size="16" fill="#8bff75">~</text>
-  <text x="200" y="94" class="mono" font-size="16" fill="#f8fafc">$ ./whoami --verbose</text>
-  <rect class="cursor" x="383" y="79" width="9" height="19" fill="#39ff14"/>
+  <text x="42" y="91" class="mono prompt" font-size="15">adriel@github:~$</text>
+  <text x="205" y="91" class="mono command" font-size="15">whoami</text>
+  <text x="42" y="135" class="mono command" font-size="34" font-weight="700">Adriel Perera</text>
 
-  <text x="52" y="172" class="sans" font-weight="800" font-size="58" letter-spacing="-1.4" fill="#f8fafc">ADRIEL PERERA</text>
-  <rect x="53" y="190" width="516" height="4" fill="url(#signal)"/>
-  <text x="54" y="228" class="mono" font-size="18" font-weight="700" fill="#cbd5e1">SOFTWARE ENGINEER  /  BACKEND  /  APPLIED AI</text>
+  <text x="42" y="186" class="mono prompt" font-size="15">adriel@github:~$</text>
+  <text x="205" y="186" class="mono command" font-size="15">cat /etc/role</text>
+  <text x="42" y="219" class="mono output" font-size="17">Software Engineering Undergraduate</text>
 
-  <g transform="translate(54 264)">
-    <rect width="148" height="38" fill="#39ff14"/>
-    <text x="74" y="25" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#030603">BUILD SYSTEMS</text>
-    <rect x="158" width="158" height="38" fill="none" stroke="#39ff14" stroke-width="2"/>
-    <text x="237" y="25" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#f8fafc">TRACE FAILURES</text>
-    <rect x="326" width="168" height="38" fill="none" stroke="#164d1c" stroke-width="2"/>
-    <text x="410" y="25" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#cbd5e1">SHIP EVIDENCE</text>
-  </g>
+  <text x="42" y="270" class="mono prompt" font-size="15">adriel@github:~$</text>
+  <text x="205" y="270" class="mono command" font-size="15">printf "%s\n" "$FOCUS"</text>
+  <text x="42" y="303" class="mono output" font-size="17">Backend systems / applied AI / reliable software</text>
 
-  <g transform="translate(750 92)">
-    <rect width="394" height="210" fill="#061006" stroke="#164d1c" stroke-width="2"/>
-    <rect width="8" height="210" fill="url(#signal)"/>
-    <text x="31" y="38" class="mono" font-size="13" font-weight="700" fill="#64748b">$ cat ./signal.env</text>
-    <text x="31" y="78" class="mono" font-size="15" fill="#94a3b8">MODE=</text>
-    <text x="151" y="78" class="mono" font-size="15" font-weight="700" fill="#39ff14">BUILDING</text>
-    <text x="31" y="113" class="mono" font-size="15" fill="#94a3b8">FOCUS=</text>
-    <text x="151" y="113" class="mono" font-size="15" font-weight="700" fill="#f8fafc">BACKEND+AGENTS</text>
-    <text x="31" y="148" class="mono" font-size="15" fill="#94a3b8">METHOD=</text>
-    <text x="151" y="148" class="mono" font-size="15" font-weight="700" fill="#f8fafc">LEARN/TEST/SHIP</text>
-    <circle cx="337" cy="174" r="6" fill="#39ff14" filter="url(#phosphorGlow)"/>
-    <text x="31" y="182" class="mono" font-size="13" fill="#39ff14">STATUS=</text>
-    <text x="151" y="182" class="mono" font-size="13" fill="#cbd5e1">OPEN_TO_OPPORTUNITIES</text>
-  </g>
+  <text x="42" y="354" class="mono prompt" font-size="15">adriel@github:~$</text>
+  <rect x="205" y="340" width="9" height="18" fill="#39d353"/>
 
-  <rect x="18" y="335" width="749" height="7" fill="#39ff14"/>
-  <rect x="767" y="335" width="415" height="7" fill="#8bff75"/>
+  <text x="744" y="91" class="mono prompt" font-size="15">$</text>
+  <text x="764" y="91" class="mono command" font-size="15">systemctl --user status portfolio</text>
+
+  <text x="744" y="136" class="mono command" font-size="17" font-weight="700">portfolio.service</text>
+  <circle cx="752" cy="169" r="5" fill="#39d353"/>
+  <text x="768" y="174" class="mono accent" font-size="14">active</text>
+
+  <text x="744" y="217" class="mono muted" font-size="14">Loaded:</text>
+  <text x="826" y="217" class="mono output" font-size="14">verified repositories</text>
+
+  <text x="744" y="252" class="mono muted" font-size="14">Scope:</text>
+  <text x="826" y="252" class="mono output" font-size="14">backend / AI / distributed systems</text>
+
+  <text x="744" y="287" class="mono muted" font-size="14">Method:</text>
+  <text x="826" y="287" class="mono output" font-size="14">design -&gt; validate -&gt; test -&gt; observe</text>
+
+  <text x="744" y="322" class="mono muted" font-size="14">Status:</text>
+  <text x="826" y="322" class="mono output" font-size="14">open to engineering opportunities</text>
+
+  <rect x="22" y="382" width="1156" height="2" fill="#39d353" opacity="0.72"/>
 </svg>
