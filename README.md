@@ -1,21 +1,17 @@
-<p align="center">
-  <img src="./assets/adriel-console.svg" width="100%" alt="Adriel Perera Linux terminal profile banner" />
-</p>
+# Adriel Perera
 
-<p align="center">
-  <a href="mailto:adrielp2000@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/adriel-perera">LinkedIn</a> |
-  <a href="https://github.com/adriel03-dp?tab=repositories">Repositories</a>
-</p>
+```console
+adriel@github:~$ whoami
+3rd Year Software Engineering Undergraduate @ SLIIT
 
-# `$ whoami`
+adriel@github:~$ printenv FOCUS
+Backend systems / applied AI / distributed services
 
-```text
-name      Adriel Perera
-role      3rd Year Software Engineering Undergraduate @ SLIIT
-focus     Backend systems, applied AI, and distributed services
-status    Building, testing, and looking for engineering opportunities
+adriel@github:~$ echo $CURRENT_MISSION
+Build reliable software. Keep model output accountable.
 ```
+
+[Email](mailto:adrielp2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adriel-perera) | [Repositories](https://github.com/adriel03-dp?tab=repositories)
 
 ## `$ cat about.txt`
 
