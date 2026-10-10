@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="344" viewBox="0 0 1200 344" role="img" aria-labelledby="title desc">
+  <title id="title">Adriel Perera engineering environment</title>
+  <desc id="desc">A compact terminal-inspired overview of languages, backend, AI, and operations tools.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111820" />
+      <stop offset="1" stop-color="#0D1117" />
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="344" rx="18" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="344" fill="#0D1117" />
+    <rect x="0" y="0" width="5" height="344" fill="#3FB950" />
+    <rect x="54" y="50" width="1092" height="246" rx="12" fill="url(#panel)" stroke="#30363D" />
+
+    <g font-family="SFMono-Regular, Consolas, Liberation Mono, monospace">
+      <text x="56" y="30" fill="#7D8590" font-size="13" letter-spacing="1.6">~/PROFILE/ENVIRONMENT</text>
+      <text x="1144" y="30" fill="#3FB950" font-size="13" text-anchor="end">printenv</text>
+
+      <text x="86" y="92" fill="#3FB950" font-size="14" font-weight="700">LANGUAGES</text>
+      <text x="86" y="126" fill="#E6EDF3" font-size="21" font-weight="600">C# / TypeScript / Python / Go</text>
+
+      <text x="86" y="177" fill="#3FB950" font-size="14" font-weight="700">BACKEND</text>
+      <text x="86" y="211" fill="#E6EDF3" font-size="21" font-weight="600">ASP.NET Core / FastAPI / Node.js</text>
+
+      <line x1="600" y1="78" x2="600" y2="268" stroke="#30363D" />
+
+      <text x="646" y="92" fill="#3FB950" font-size="14" font-weight="700">AI ENGINEERING</text>
+      <text x="646" y="126" fill="#E6EDF3" font-size="21" font-weight="600">Groq / Ollama / Qwen / LoRA</text>
+
+      <text x="646" y="177" fill="#3FB950" font-size="14" font-weight="700">OPERATIONS</text>
+      <text x="646" y="211" fill="#E6EDF3" font-size="21" font-weight="600">Docker / Kubernetes / NGINX</text>
+
+      <rect x="86" y="252" width="12" height="12" fill="#3FB950" />
+      <text x="116" y="263" fill="#8B949E" font-size="14">choose the tool that fits the system</text>
+      <text x="1114" y="263" fill="#59636E" font-size="13" text-anchor="end">adriel@github:~$</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="343" rx="17.5" fill="none" stroke="#30363D" />
+</svg>
