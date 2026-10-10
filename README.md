@@ -48,6 +48,12 @@ Explores Sinhala transcript and text correction with a structured prompt-complet
 
 **Engineering signal:** dataset schema checks, duplicate detection, label validation, review gates, phrase-group split isolation, balanced training records, deterministic generation, and explicit hardware checks.
 
+## `$ github-metrics --summary`
+
+<p align="center">
+  <img src="./assets/github-metrics.svg" width="100%" alt="Adriel Perera GitHub profile metrics, contribution calendar, and language activity" />
+</p>
+
 ## `$ printenv TECH_STACK`
 
 | Environment | Verified tools |
