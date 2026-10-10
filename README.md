@@ -51,7 +51,7 @@ Explores Sinhala transcript and text correction with a structured prompt-complet
 ## `$ github-metrics --summary`
 
 <p align="center">
-  <img src="./assets/github-metrics.svg" width="100%" alt="Adriel Perera GitHub profile metrics, contribution calendar, and language activity" />
+  <img src="./assets/github-metrics.svg" width="480" alt="Adriel Perera GitHub profile metrics, contribution calendar, and language activity" />
 </p>
 
 ## `$ printenv TECH_STACK`

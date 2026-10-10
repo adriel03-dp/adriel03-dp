@@ -26,6 +26,50 @@ jobs:
           filename: assets/github-metrics.svg
           base: header, metadata
           config_timezone: Asia/Colombo
+          extras_css: |
+            .header {
+              background: #161B22;
+              border: 1px solid #30363D;
+              border-bottom: 0;
+            }
+            .title,
+            .banner,
+            footer {
+              color: #8B949E;
+            }
+            .button {
+              color: #0D1117;
+              background: #30363D;
+              text-shadow: none;
+            }
+            .button.exit {
+              background: #3FB950;
+            }
+            pre {
+              color: #C9D1D9;
+              background: #0D1117;
+              border: 1px solid #30363D;
+              border-top: 0;
+            }
+            .ps1-path,
+            .ps1-location {
+              color: #3FB950;
+            }
+            .isocalendar svg {
+              filter: grayscale(1) sepia(1) hue-rotate(72deg) saturate(3) brightness(.82) opacity(.9);
+            }
+            .stdin,
+            .stdout,
+            footer {
+              animation: none;
+            }
+            .stdin,
+            footer {
+              width: 100%;
+            }
+            .stdout {
+              max-height: none;
+            }
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
