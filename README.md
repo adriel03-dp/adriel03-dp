@@ -1,15 +1,6 @@
-# Adriel Perera
-
-```console
-adriel@github:~$ whoami
-3rd Year Software Engineering Undergraduate @ SLIIT
-
-adriel@github:~$ printenv FOCUS
-Backend systems / applied AI / distributed services
-
-adriel@github:~$ echo $CURRENT_MISSION
-Build reliable software. Keep model output accountable.
-```
+<p align="center">
+  <img src="./assets/adriel-terminal.svg" width="100%" alt="Adriel Perera, software engineering undergraduate focused on backend systems, applied AI, and distributed services" />
+</p>
 
 [Email](mailto:adrielp2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adriel-perera) | [Repositories](https://github.com/adriel03-dp?tab=repositories)
 

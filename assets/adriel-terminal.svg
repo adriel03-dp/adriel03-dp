@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Adriel Perera terminal profile banner</title>
+  <desc id="desc">Software engineering undergraduate focused on backend systems, applied AI, and distributed services.</desc>
+
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#238636" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="18" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="#0D1117" />
+    <rect width="1200" height="360" fill="url(#grid)" />
+
+    <circle cx="1124" cy="180" r="254" fill="none" stroke="#238636" stroke-opacity="0.08" stroke-width="82" />
+    <circle cx="1124" cy="180" r="158" fill="none" stroke="#3FB950" stroke-opacity="0.08" stroke-width="1" />
+    <path d="M 891 0 L 1200 0 L 1200 360 L 1016 360 Z" fill="#3FB950" fill-opacity="0.025" />
+
+    <rect x="0" y="0" width="5" height="360" fill="#3FB950" />
+    <rect x="0" y="0" width="1200" height="1" fill="#3FB950" fill-opacity="0.55" />
+
+    <g font-family="SFMono-Regular, Consolas, Liberation Mono, monospace">
+      <text x="64" y="42" fill="#7D8590" font-size="13" letter-spacing="1.8">~/PROFILE/README.md</text>
+      <text x="1136" y="42" fill="#3FB950" font-size="13" text-anchor="end">github.com/adriel03-dp</text>
+
+      <text x="64" y="105" fill="#3FB950" font-size="20" font-weight="600">$ whoami</text>
+      <text x="64" y="166" fill="#E6EDF3" font-size="50" font-weight="700" letter-spacing="-2">Adriel Perera</text>
+      <text x="66" y="204" fill="#A7B0BA" font-size="17" letter-spacing="2">SOFTWARE ENGINEERING UNDERGRADUATE</text>
+
+      <line x1="66" y1="237" x2="622" y2="237" stroke="#30363D" />
+      <rect x="66" y="259" width="9" height="9" fill="#3FB950" />
+      <text x="92" y="269" fill="#C9D1D9" font-size="16">Building reliable software and accountable AI systems.</text>
+
+      <text x="736" y="96" fill="#3FB950" font-size="16" font-weight="600">$ printenv FOCUS</text>
+
+      <text x="736" y="145" fill="#59636E" font-size="12">01</text>
+      <text x="778" y="145" fill="#E6EDF3" font-size="18" font-weight="600">BACKEND SYSTEMS</text>
+      <line x1="736" y1="163" x2="1100" y2="163" stroke="#30363D" />
+
+      <text x="736" y="202" fill="#59636E" font-size="12">02</text>
+      <text x="778" y="202" fill="#E6EDF3" font-size="18" font-weight="600">APPLIED AI</text>
+      <line x1="736" y1="220" x2="1100" y2="220" stroke="#30363D" />
+
+      <text x="736" y="259" fill="#59636E" font-size="12">03</text>
+      <text x="778" y="259" fill="#E6EDF3" font-size="18" font-weight="600">DISTRIBUTED SERVICES</text>
+
+      <text x="64" y="328" fill="#7D8590" font-size="13">adriel@github:~$</text>
+      <rect x="211" y="315" width="9" height="15" fill="#3FB950" />
+      <text x="1136" y="328" fill="#59636E" font-size="12" text-anchor="end">3RD YEAR @ SLIIT</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="17.5" fill="none" stroke="#30363D" />
+</svg>
