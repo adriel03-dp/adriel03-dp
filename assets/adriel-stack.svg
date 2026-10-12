@@ -1,45 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="344" viewBox="0 0 1200 344" role="img" aria-labelledby="title desc">
-  <title id="title">Adriel Perera engineering environment</title>
-  <desc id="desc">A compact terminal-inspired overview of languages, backend, AI, and operations tools.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Adriel Perera engineering stack map</title>
+  <desc id="desc">An asymmetric architecture map showing verified languages, backend frameworks, AI tools, and operations technologies.</desc>
 
   <defs>
-    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111820" />
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0F0C" />
       <stop offset="1" stop-color="#0D1117" />
     </linearGradient>
     <clipPath id="frame">
-      <rect width="1200" height="344" rx="18" />
+      <path d="M0 0H1400V380L1360 420H0Z" />
     </clipPath>
   </defs>
 
+  <style>
+    .route { animation: route 3.2s linear infinite; }
+    .cursor { animation: blink 1.05s steps(1,end) infinite; }
+    @keyframes route { to { stroke-dashoffset:-72 } }
+    @keyframes blink { 0%,48% { opacity:1 } 49%,100% { opacity:0 } }
+    @media (prefers-reduced-motion: reduce) {
+      .route, .cursor { animation:none; }
+    }
+  </style>
+
   <g clip-path="url(#frame)">
-    <rect width="1200" height="344" fill="#0D1117" />
-    <rect x="0" y="0" width="5" height="344" fill="#3FB950" />
-    <rect x="54" y="50" width="1092" height="246" rx="12" fill="url(#panel)" stroke="#30363D" />
+    <rect width="1400" height="420" fill="url(#field)" />
+    <rect x="0" y="0" width="7" height="420" fill="#3FB950" />
+    <rect x="0" y="0" width="1400" height="2" fill="#3FB950" />
 
     <g font-family="SFMono-Regular, Consolas, Liberation Mono, monospace">
-      <text x="56" y="30" fill="#7D8590" font-size="13" letter-spacing="1.6">~/PROFILE/ENVIRONMENT</text>
-      <text x="1144" y="30" fill="#3FB950" font-size="13" text-anchor="end">printenv</text>
+      <text x="54" y="40" fill="#3FB950" font-size="17" font-weight="700">$ map --engineering-stack</text>
+      <text x="1346" y="40" fill="#59636E" font-size="13" text-anchor="end">verified environment</text>
 
-      <text x="86" y="92" fill="#3FB950" font-size="14" font-weight="700">LANGUAGES</text>
-      <text x="86" y="126" fill="#E6EDF3" font-size="21" font-weight="600">C# / TypeScript / Python / Go</text>
+      <rect x="54" y="72" width="500" height="282" fill="#10161D" stroke="#30363D" />
+      <rect x="54" y="72" width="8" height="282" fill="#3FB950" />
+      <text x="88" y="112" fill="#3FB950" font-size="14" font-weight="700">LANGUAGES</text>
+      <text x="88" y="168" fill="#E6EDF3" font-size="31" font-weight="800">C#</text>
+      <text x="88" y="218" fill="#E6EDF3" font-size="31" font-weight="800">TypeScript</text>
+      <text x="88" y="268" fill="#E6EDF3" font-size="31" font-weight="800">Python</text>
+      <text x="88" y="318" fill="#E6EDF3" font-size="31" font-weight="800">Go</text>
+      <text x="506" y="318" fill="#3FB950" font-size="72" font-weight="800" text-anchor="end" opacity="0.12">{ }</text>
 
-      <text x="86" y="177" fill="#3FB950" font-size="14" font-weight="700">BACKEND</text>
-      <text x="86" y="211" fill="#E6EDF3" font-size="21" font-weight="600">ASP.NET Core / FastAPI / Node.js</text>
+      <rect x="586" y="72" width="760" height="116" fill="#0F1713" stroke="#30363D" />
+      <text x="620" y="110" fill="#3FB950" font-size="14" font-weight="700">BACKEND / API</text>
+      <text x="620" y="154" fill="#E6EDF3" font-size="25" font-weight="700">ASP.NET Core</text>
+      <text x="884" y="154" fill="#E6EDF3" font-size="25" font-weight="700">FastAPI</text>
+      <text x="1074" y="154" fill="#E6EDF3" font-size="25" font-weight="700">Node.js</text>
 
-      <line x1="600" y1="78" x2="600" y2="268" stroke="#30363D" />
+      <rect x="586" y="214" width="356" height="140" fill="#10161D" stroke="#30363D" />
+      <text x="620" y="252" fill="#3FB950" font-size="14" font-weight="700">AI ENGINEERING</text>
+      <text x="620" y="295" fill="#E6EDF3" font-size="21" font-weight="700">Groq / Ollama</text>
+      <text x="620" y="326" fill="#A7B0BA" font-size="17">Qwen / LoRA</text>
 
-      <text x="646" y="92" fill="#3FB950" font-size="14" font-weight="700">AI ENGINEERING</text>
-      <text x="646" y="126" fill="#E6EDF3" font-size="21" font-weight="600">Groq / Ollama / Qwen / LoRA</text>
+      <rect x="968" y="214" width="378" height="140" fill="#0F1713" stroke="#30363D" />
+      <text x="1002" y="252" fill="#3FB950" font-size="14" font-weight="700">OPERATIONS</text>
+      <text x="1002" y="295" fill="#E6EDF3" font-size="21" font-weight="700">Docker / Kubernetes</text>
+      <text x="1002" y="326" fill="#A7B0BA" font-size="17">NGINX</text>
 
-      <text x="646" y="177" fill="#3FB950" font-size="14" font-weight="700">OPERATIONS</text>
-      <text x="646" y="211" fill="#E6EDF3" font-size="21" font-weight="600">Docker / Kubernetes / NGINX</text>
+      <path class="route" d="M554 130H586M942 284H968" fill="none" stroke="#3FB950" stroke-width="2" stroke-dasharray="8 8" />
+      <rect x="549" y="125" width="10" height="10" fill="#3FB950" />
+      <rect x="937" y="279" width="10" height="10" fill="#3FB950" />
 
-      <rect x="86" y="252" width="12" height="12" fill="#3FB950" />
-      <text x="116" y="263" fill="#8B949E" font-size="14">choose the tool that fits the system</text>
-      <text x="1114" y="263" fill="#59636E" font-size="13" text-anchor="end">adriel@github:~$</text>
+      <text x="54" y="392" fill="#8B949E" font-size="13">adriel@github:~$ resolve dependencies</text>
+      <rect class="cursor" x="357" y="379" width="9" height="16" fill="#3FB950" />
     </g>
   </g>
 
-  <rect x="0.5" y="0.5" width="1199" height="343" rx="17.5" fill="none" stroke="#30363D" />
+  <path d="M0.5 0.5H1399.5V379.8L1359.8 419.5H0.5Z" fill="none" stroke="#30363D" />
 </svg>
