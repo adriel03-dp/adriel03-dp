@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=1800&amp;pause=650&amp;color=3FB950&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=45&amp;lines=%24+boot+portfolio.service;%24+build+--backend+--ai+--reliable;%24+ship+--test+--observe" alt="Animated terminal commands describing Adriel's engineering workflow" />
+  <img src="./assets/terminal-typing.svg" width="900" alt="Animated terminal commands describing Adriel's engineering workflow" />
 </p>
 
 <p align="center">

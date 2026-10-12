@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="54" viewBox="0 0 900 54" role="img" aria-labelledby="title desc">
+  <title id="title">Animated engineering command sequence</title>
+  <desc id="desc">Terminal commands cycle through booting the portfolio, building reliable backend and AI systems, and shipping tested observable software.</desc>
+
+  <style>
+    .command { opacity:0; }
+    .first { animation:firstLine 7.5s steps(1,end) infinite; }
+    .second { animation:secondLine 7.5s steps(1,end) infinite; }
+    .third { animation:thirdLine 7.5s steps(1,end) infinite; }
+    .caret { animation:blink 1s steps(1,end) infinite; }
+    @keyframes firstLine { 0%,31% { opacity:1; } 32%,100% { opacity:0; } }
+    @keyframes secondLine { 0%,32% { opacity:0; } 33%,64% { opacity:1; } 65%,100% { opacity:0; } }
+    @keyframes thirdLine { 0%,65% { opacity:0; } 66%,97% { opacity:1; } 98%,100% { opacity:0; } }
+    @keyframes blink { 0%,48% { opacity:1; } 49%,100% { opacity:0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .command { animation:none; opacity:0; }
+      .command:first-of-type { opacity:1; }
+      .caret { animation:none; }
+    }
+  </style>
+
+  <rect width="900" height="54" fill="#0D1117" fill-opacity="0" />
+  <g fill="#3FB950" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="21" font-weight="700" text-anchor="middle">
+    <g class="command first">
+      <text x="450" y="34">$ boot portfolio.service</text>
+      <rect class="caret" x="598" y="17" width="9" height="20" />
+    </g>
+    <g class="command second">
+      <text x="450" y="34">$ build --backend --ai --reliable</text>
+      <rect class="caret" x="652" y="17" width="9" height="20" />
+    </g>
+    <g class="command third">
+      <text x="450" y="34">$ ship --test --observe</text>
+      <rect class="caret" x="598" y="17" width="9" height="20" />
+    </g>
+  </g>
+</svg>
